@@ -18,7 +18,7 @@ Delivery infrastructure is now programmable, and we will program it.
 
 **Core:** Delivery is a fundamental and strategic capability for every software team and organization.
 -   **First-class:** Delivery code is production code.
--   **Strategic:** Decide policy at the team and organization level; implement it with precision, without toil, in code.
+-   **Strategic:** Decide policy at the team and organization level; implement it with precision, without toil, in code. Delivery should be value-driven and customer-focused.
 -   **Evolving:** As we learn, we continually improve our delivery.
 
 **Engineered:** In robust, testable code.
